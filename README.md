@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
 
-- 🔭 I’m currently working on [**anime**](https://github.com/ayayushsharma/anime)
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Something**
 
 - 📫 How to reach me **ayayushsharma@gmail.com**
